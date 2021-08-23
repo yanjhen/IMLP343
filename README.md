@@ -6,3 +6,6 @@ This is NTU train IMLP course
 [unit02_homework_pandas](https://github.com/yanjhen/IMLP343/blob/main/02_Pandas%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90.ipynb)  
 [unit02_homework_matplotlib](https://github.com/yanjhen/IMLP343/blob/main/03_1_Matplotlib.ipynb)  
 [unit02_homework_matplotlib2](https://github.com/yanjhen/IMLP343/blob/main/03_Matplotlib%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96.ipynb)  
+[unit03_hoework_catagorical](https://github.com/yanjhen/IMLP343/blob/main/4_Categorical_features_%E5%AF%A6%E6%88%B0.ipynb)
+[unit03_hoework_processing](https://github.com/yanjhen/IMLP343/blob/main/5_Prepocessing_%E5%AF%A6%E6%88%B0.ipynb)
+[unit03_hoework_sklearn](https://github.com/yanjhen/IMLP343/blob/main/6_scikit_learn_Basic_%E5%AF%A6%E6%88%B0.ipynb)
