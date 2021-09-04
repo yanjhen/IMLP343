@@ -9,3 +9,4 @@ This is NTU train IMLP course
 [unit03_hoework_catagorical](https://github.com/yanjhen/IMLP343/blob/main/4_Categorical_features_%E5%AF%A6%E6%88%B0.ipynb)
 [unit03_hoework_processing](https://github.com/yanjhen/IMLP343/blob/main/5_Prepocessing_%E5%AF%A6%E6%88%B0.ipynb)
 [unit03_hoework_sklearn](https://github.com/yanjhen/IMLP343/blob/main/6_scikit_learn_Basic_%E5%AF%A6%E6%88%B0.ipynb)
+[unit04_hoework_linear regression](https://github.com/yanjhen/IMLP343/blob/main/Linear%20Regression_HW.ipynb)
